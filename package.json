@@ -1,0 +1,13 @@
+{
+  "name": "sass-project",
+  "version": "1.0.0",
+  "main": "index.js",
+
+  "scripts": {
+"sass": "sass --watch scss/style.scss assets/css/style.css"
+},
+
+  "devDependencies": {
+    "sass": "^1.85.0"
+  }
+}
